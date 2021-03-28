@@ -1,11 +1,8 @@
-body{
-}
-
 .colred{
-Colour:red;
+colour:red;
 }
-#colgreen{
-Colour:green;
+.colgreen{
+colour:green;
 }
     
 /*Still in progress*/
