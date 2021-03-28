@@ -1,2 +1,6 @@
 # repo.css.lib.css
-A simple css library.
+A simple css library created only in cascading style sheet.
+I m creating this for my projects on Sololearn....
+And also i got encourage by viewing theor libraries from my sl friends Bartika, Achiever, Ambika and also Atomic Wave... Thank you guys for creating such good library's.
+So im trying to create this simple library.
+Thank You...
